@@ -1,11 +1,12 @@
-# Fast Forward Associates — Open Source
+# Emissary
 
-Placeholder repo. This will hold whatever genuinely generic, reusable pieces
-come out of [Fast Forward Associates](https://fastforward.associates)'s
-private pipeline (repo: `fastforward-associates`, private) — for example a
-Notion-as-database helper, or the capped-LLM-key spend-isolation pattern —
-once there's something worth publishing and a real decision about what's
-safe to share versus what stays private (scoring criteria, target lists,
-and other business-specific logic are not going here).
+An AI agent that represents a person or business — inbound and outbound,
+increasingly agent-to-agent rather than only agent-to-human.
+
+See [VISION.md](VISION.md) for what this is and why. Short version: the
+vision is broader than any one business or use case; what's shipped so far
+is a narrow, real MVP running privately under a different name
+(`fastforward-associates`) — this repo is the system's own identity, kept
+separate on purpose, and not yet populated with code.
 
 Nothing is published here yet.
